@@ -1,5 +1,13 @@
 # Alurapic
 
+Referente aos cursos:
+
+https://www.alura.com.br/curso-online-angular-fundamentos
+
+https://www.alura.com.br/curso-online-angular-autenticacao
+
+https://www.alura.com.br/curso-online-angular-upload-build
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## Development server
