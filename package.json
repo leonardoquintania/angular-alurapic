@@ -24,7 +24,10 @@
     "core-js": "^2.5.4",
     "font-awesome": "^4.7.0",
     "jwt-decode": "^2.2.0",
+    "npm": "^6.13.2",
     "rxjs": "^6.0.0",
+    "stacktrace-js": "^2.0.1",
+    "yarn": "^1.21.0",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
